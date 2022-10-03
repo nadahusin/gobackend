@@ -1,8 +1,8 @@
 package interfaces
 
 import (
-	"github.com/nadahusin/rental/src/database/orm/models"
-	"github.com/nadahusin/rental/src/libs"
+	"github.com/nadahusin/gorent/src/database/orm/models"
+	"github.com/nadahusin/gorent/src/libs"
 )
 
 type HistoriesRepo interface {

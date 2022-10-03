@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nadahusin/rental/src/libs"
+	"github.com/nadahusin/gorent/src/libs"
 )
 
 func FileUpload(next http.HandlerFunc) http.HandlerFunc {

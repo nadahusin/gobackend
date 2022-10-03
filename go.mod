@@ -1,4 +1,4 @@
-module github.com/nadahusin/rental
+module github.com/nadahusin/gorent
 
 go 1.18
 

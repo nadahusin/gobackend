@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/nadahusin/rental/src/libs"
+	"github.com/nadahusin/gorent/src/libs"
 )
 
 func CheckAuth(next http.HandlerFunc) http.HandlerFunc {

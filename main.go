@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/nadahusin/rental/src/config"
+	"github.com/nadahusin/gorent/src/config"
 )
 
 func main() {

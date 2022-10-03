@@ -1,7 +1,7 @@
 package vehicles
 
 import (
-	"github.com/nadahusin/rental/src/database/orm/models"
+	"github.com/nadahusin/gorent/src/database/orm/models"
 	"github.com/stretchr/testify/mock"
 )
 

@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/nadahusin/rental/src/database/orm"
+	"github.com/nadahusin/gorent/src/database/orm"
 
 	"github.com/spf13/cobra"
 )

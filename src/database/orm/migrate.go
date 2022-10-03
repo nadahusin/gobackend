@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/go-gormigrate/gormigrate/v2"
-	"github.com/nadahusin/rental/src/database/orm/models"
+	"github.com/nadahusin/gorent/src/database/orm/models"
 
 	"github.com/spf13/cobra"
 	"gorm.io/gorm"

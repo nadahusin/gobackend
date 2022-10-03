@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/nadahusin/rental/src/routers"
+	"github.com/nadahusin/gorent/src/routers"
 
 	"github.com/spf13/cobra"
 )

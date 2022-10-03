@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/gorilla/mux"
-	"github.com/nadahusin/rental/src/database/orm/models"
-	"github.com/nadahusin/rental/src/libs"
+	"github.com/nadahusin/gorent/src/database/orm/models"
+	"github.com/nadahusin/gorent/src/libs"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

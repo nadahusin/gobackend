@@ -2,7 +2,7 @@ package users
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/nadahusin/rental/src/middleware"
+	"github.com/nadahusin/gorent/src/middleware"
 	"gorm.io/gorm"
 )
 

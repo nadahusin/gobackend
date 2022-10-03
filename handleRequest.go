@@ -29,29 +29,29 @@ package main
 // 	}
 // }
 
-// func sampleHandler(w http.ResponseWriter, r *http.Request) {
-// 	w.Write([]byte("Hello Worlds"))
-// }
+// // func sampleHandler(w http.ResponseWriter, r *http.Request) {
+// // 	w.Write([]byte("Hello Worlds"))
+// // }
 
-// // fatch params
-// func paramsHendler(w http.ResponseWriter, r *http.Request) {
-// 	vars := mux.Vars(r)
+// // // fatch params
+// // func paramsHendler(w http.ResponseWriter, r *http.Request) {
+// // 	vars := mux.Vars(r)
 
-// 	fmt.Fprintf(w, "Params : %v ", vars["username"])
-// }
+// // 	fmt.Fprintf(w, "Params : %v ", vars["username"])
+// // }
 
-// // fatch query urkl
-// func queryHendler(w http.ResponseWriter, r *http.Request) {
-// 	vars := r.URL.Query()
+// // // fatch query urkl
+// // func queryHendler(w http.ResponseWriter, r *http.Request) {
+// // 	vars := r.URL.Query()
 
-// 	fmt.Fprintf(w, "Params : %v ", vars)
-// }
+// // 	fmt.Fprintf(w, "Params : %v ", vars)
+// // }
 
-// // fatch query urkl
-// func bodyHendler(w http.ResponseWriter, r *http.Request) {
-// 	var good goods
+// // // fatch query urkl
+// // func bodyHendler(w http.ResponseWriter, r *http.Request) {
+// // 	var good goods
 
-// 	json.NewDecoder(r.Body).Decode(&good)
+// // 	json.NewDecoder(r.Body).Decode(&good)
 
-// 	fmt.Println(good)
-// }
+// // 	fmt.Println(good)
+// // }

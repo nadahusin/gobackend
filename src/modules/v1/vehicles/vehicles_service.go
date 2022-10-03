@@ -1,9 +1,9 @@
 package vehicles
 
 import (
-	"github.com/nadahusin/rental/src/database/orm/models"
-	"github.com/nadahusin/rental/src/interfaces"
-	"github.com/nadahusin/rental/src/libs"
+	"github.com/nadahusin/gorent/src/database/orm/models"
+	"github.com/nadahusin/gorent/src/interfaces"
+	"github.com/nadahusin/gorent/src/libs"
 )
 
 // berinteraksi dengan repo dan controller
