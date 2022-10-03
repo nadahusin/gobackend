@@ -3,7 +3,7 @@ package histories
 import (
 	"errors"
 
-	"github.com/nadahusin/gobackend/src/database/orm/models"
+	"github.com/nadahusin/rental/src/database/orm/models"
 	"gorm.io/gorm"
 )
 

@@ -4,11 +4,11 @@ import (
 	"errors"
 
 	"github.com/gorilla/mux"
-	"github.com/nadahusin/gobackend/src/database/orm"
-	"github.com/nadahusin/gobackend/src/modules/v1/auth"
-	"github.com/nadahusin/gobackend/src/modules/v1/histories"
-	"github.com/nadahusin/gobackend/src/modules/v1/users"
-	"github.com/nadahusin/gobackend/src/modules/v1/vehicles"
+	"github.com/nadahusin/rental/src/database/orm"
+	"github.com/nadahusin/rental/src/modules/v1/auth"
+	"github.com/nadahusin/rental/src/modules/v1/histories"
+	"github.com/nadahusin/rental/src/modules/v1/users"
+	"github.com/nadahusin/rental/src/modules/v1/vehicles"
 )
 
 func New() (*mux.Router, error) {

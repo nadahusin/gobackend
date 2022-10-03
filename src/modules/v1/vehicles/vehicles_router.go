@@ -2,7 +2,7 @@ package vehicles
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/nadahusin/gobackend/src/middleware"
+	"github.com/nadahusin/rental/src/middleware"
 	"gorm.io/gorm"
 )
 

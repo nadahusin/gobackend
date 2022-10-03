@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/nadahusin/gobackend/src/config"
+	"github.com/nadahusin/rental/src/config"
 )
 
 func main() {

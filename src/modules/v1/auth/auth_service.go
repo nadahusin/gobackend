@@ -1,9 +1,9 @@
 package auth
 
 import (
-	"github.com/nadahusin/gobackend/src/database/orm/models"
-	"github.com/nadahusin/gobackend/src/interfaces"
-	"github.com/nadahusin/gobackend/src/libs"
+	"github.com/nadahusin/rental/src/database/orm/models"
+	"github.com/nadahusin/rental/src/interfaces"
+	"github.com/nadahusin/rental/src/libs"
 )
 
 type auth_service struct {

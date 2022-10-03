@@ -1,4 +1,4 @@
-module github.com/nadahusin/gobackend
+module github.com/nadahusin/rental
 
 go 1.18
 
