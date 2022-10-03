@@ -2,7 +2,7 @@ package auth
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/nadahusin/gorent/src/modules/v1/users"
+	"github.com/nadahusin/gobackend/src/modules/v1/users"
 
 	"gorm.io/gorm"
 )

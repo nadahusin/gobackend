@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/nadahusin/gorent/src/database/orm"
+	"github.com/nadahusin/gobackend/src/database/orm"
 
 	"github.com/spf13/cobra"
 )

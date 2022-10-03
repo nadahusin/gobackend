@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/nadahusin/gorent/src/database/orm/models"
+	"github.com/nadahusin/gobackend/src/database/orm/models"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )

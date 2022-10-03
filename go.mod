@@ -1,4 +1,4 @@
-module github.com/nadahusin/gorent
+module github.com/nadahusin/gobackend
 
 go 1.18
 

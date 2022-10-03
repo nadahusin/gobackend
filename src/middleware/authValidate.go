@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/nadahusin/gorent/src/libs"
+	"github.com/nadahusin/gobackend/src/libs"
 )
 
 func CheckAuth(next http.HandlerFunc) http.HandlerFunc {

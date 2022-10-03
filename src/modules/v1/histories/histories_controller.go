@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/nadahusin/gorent/src/database/orm/models"
-	"github.com/nadahusin/gorent/src/interfaces"
-	"github.com/nadahusin/gorent/src/libs"
+	"github.com/nadahusin/gobackend/src/database/orm/models"
+	"github.com/nadahusin/gobackend/src/interfaces"
+	"github.com/nadahusin/gobackend/src/libs"
 )
 
 type history_ctrl struct {
