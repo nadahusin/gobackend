@@ -1,1 +1,1 @@
-web: ./bin/gobackend server
+web: ./bin/gobackend start
